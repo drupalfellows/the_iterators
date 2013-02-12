@@ -1,0 +1,4 @@
+name = Drupal Fellowship The Iterators
+description = Drupal Fellowship The Iterators install profiles
+version = VERSION
+core = 7.x

@@ -1,4 +1,4 @@
-the_iterators
+drupalacademy
 =============
 
-The Iterators Fellowship Team
+Drupal Academy
