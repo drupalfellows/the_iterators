@@ -59,6 +59,7 @@ function the_iterators_install() {
     'custom_config',
 
     // Features modules.
+    'ti_project',
     )
   );
 }
